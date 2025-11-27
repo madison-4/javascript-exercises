@@ -7,3 +7,6 @@ Currently, it is not returning the correct value.
 ## Hints
 
 - You only need to edit the strings on line 7.
+
+## solution
+It was cocantentating strings, you only hasd to change the strings to numbers
