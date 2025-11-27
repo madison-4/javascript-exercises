@@ -1,3 +1,5 @@
+#!/usr/bin/node
+// testing concantenation
 const values = require('./joinStrings-example')
 
 describe('joinStrings-example', () => {
